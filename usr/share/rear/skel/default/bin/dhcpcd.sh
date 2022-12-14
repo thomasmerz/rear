@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+
 #  This is a sample /etc/dhcpcd.sh script.
 #  /etc/dhcpcd.sh script is executed by dhcpcd daemon
 #  any time it configures or shuts down interface.
